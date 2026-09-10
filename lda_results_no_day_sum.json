@@ -1,0 +1,2174 @@
+{
+  "method": "LDA (Bag-of-Words)",
+  "pooled_by_day_for_training": false,
+  "n_topics": 5,
+  "perplexity": 321.72799492994426,
+  "topics": [
+    {
+      "topic_id": 0,
+      "top_words": [
+        {
+          "word": "koln",
+          "probability": 0.06605660556875424
+        },
+        {
+          "word": "stadt",
+          "probability": 0.033448025671434095
+        },
+        {
+          "word": "polizei",
+          "probability": 0.030990964125952893
+        },
+        {
+          "word": "nrw",
+          "probability": 0.01990338104919975
+        },
+        {
+          "word": "demo",
+          "probability": 0.013772069601887548
+        },
+        {
+          "word": "stark",
+          "probability": 0.013770487558601201
+        },
+        {
+          "word": "inn",
+          "probability": 0.012557436789223594
+        },
+        {
+          "word": "queer",
+          "probability": 0.01254484504395663
+        },
+        {
+          "word": "verdacht",
+          "probability": 0.012543715214793855
+        },
+        {
+          "word": "wurd",
+          "probability": 0.01220985516490575
+        },
+        {
+          "word": "mensch",
+          "probability": 0.011471358028518683
+        },
+        {
+          "word": "feminist",
+          "probability": 0.010085014037996205
+        }
+      ]
+    },
+    {
+      "topic_id": 1,
+      "top_words": [
+        {
+          "word": "hbf",
+          "probability": 0.09783142370969924
+        },
+        {
+          "word": "zug",
+          "probability": 0.04563578465803282
+        },
+        {
+          "word": "end",
+          "probability": 0.03766254963780333
+        },
+        {
+          "word": "teilausfall",
+          "probability": 0.036256272566298785
+        },
+        {
+          "word": "folg",
+          "probability": 0.035233972276003465
+        },
+        {
+          "word": "monchengladbach",
+          "probability": 0.03315262257591892
+        },
+        {
+          "word": "kommt",
+          "probability": 0.0248601206989469
+        },
+        {
+          "word": "richtung",
+          "probability": 0.02090771751828563
+        },
+        {
+          "word": "beginn",
+          "probability": 0.02079537589199894
+        },
+        {
+          "word": "halt",
+          "probability": 0.01868130438415
+        },
+        {
+          "word": "verspat",
+          "probability": 0.017649414850119814
+        },
+        {
+          "word": "streck",
+          "probability": 0.01654543385073983
+        }
+      ]
+    },
+    {
+      "topic_id": 2,
+      "top_words": [
+        {
+          "word": "uhr",
+          "probability": 0.04940074700401634
+        },
+        {
+          "word": "koln",
+          "probability": 0.04456542580382028
+        },
+        {
+          "word": "ab",
+          "probability": 0.028183245059185746
+        },
+        {
+          "word": "hbf",
+          "probability": 0.016912287496964325
+        },
+        {
+          "word": "mal",
+          "probability": 0.016469075935574624
+        },
+        {
+          "word": "gibt",
+          "probability": 0.016184288428915162
+        },
+        {
+          "word": "imm",
+          "probability": 0.015110882228323507
+        },
+        {
+          "word": "dusseldorf",
+          "probability": 0.01490967806455088
+        },
+        {
+          "word": "nacht",
+          "probability": 0.014752972576096994
+        },
+        {
+          "word": "halt",
+          "probability": 0.014260257448781012
+        },
+        {
+          "word": "ca",
+          "probability": 0.013773279461555994
+        },
+        {
+          "word": "septemb",
+          "probability": 0.012734777143482463
+        }
+      ]
+    },
+    {
+      "topic_id": 3,
+      "top_words": [
+        {
+          "word": "koln",
+          "probability": 0.13861169059944561
+        },
+        {
+          "word": "uhr",
+          "probability": 0.02586185486099209
+        },
+        {
+          "word": "mehr",
+          "probability": 0.01845853780868116
+        },
+        {
+          "word": "bahnhof",
+          "probability": 0.018363425307516827
+        },
+        {
+          "word": "neu",
+          "probability": 0.01604024908684341
+        },
+        {
+          "word": "gesperrt",
+          "probability": 0.014956216863751518
+        },
+        {
+          "word": "beim",
+          "probability": 0.013653994945356079
+        },
+        {
+          "word": "freitag",
+          "probability": 0.012698163540163768
+        },
+        {
+          "word": "wart",
+          "probability": 0.012687049615776236
+        },
+        {
+          "word": "jahr",
+          "probability": 0.012425678886784077
+        },
+        {
+          "word": "nach",
+          "probability": 0.011749797620083643
+        },
+        {
+          "word": "menschenkett",
+          "probability": 0.011565237890533783
+        }
+      ]
+    },
+    {
+      "topic_id": 4,
+      "top_words": [
+        {
+          "word": "start",
+          "probability": 0.026346386276622905
+        },
+        {
+          "word": "neu",
+          "probability": 0.021699080230860177
+        },
+        {
+          "word": "end",
+          "probability": 0.02049746927010532
+        },
+        {
+          "word": "komm",
+          "probability": 0.018944914500446476
+        },
+        {
+          "word": "heut",
+          "probability": 0.018511811418348876
+        },
+        {
+          "word": "hoh",
+          "probability": 0.017343956589646745
+        },
+        {
+          "word": "folg",
+          "probability": 0.01705211337956457
+        },
+        {
+          "word": "person",
+          "probability": 0.01701262583782204
+        },
+        {
+          "word": "verspat",
+          "probability": 0.016586034728187093
+        },
+        {
+          "word": "kurz",
+          "probability": 0.01600548701204822
+        },
+        {
+          "word": "teilausfall",
+          "probability": 0.015511863609734191
+        },
+        {
+          "word": "streckenabschnitt",
+          "probability": 0.014509201117039244
+        }
+      ]
+    }
+  ],
+  "topic_counts": {
+    "0": 109,
+    "3": 141,
+    "4": 82,
+    "2": 88,
+    "1": 53
+  },
+  "document_assignments": [
+    {
+      "id": "117121323790481238",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117121196678667054",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117120990406342981",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117110726069115366",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117109964746915703",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117099383392020413",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117099221952591984",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117098518216528618",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117095991718462917",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117095934652896373",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117080778886294607",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117077769142666484",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117077758769148807",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117071634069998377",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117071513098552076",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117071092790309318",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117070891487885909",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117066945426214130",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117066921914359004",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117065544752672554",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117060680173379556",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117060671137058676",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117060653347065016",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117058326907975028",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117048216929786211",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117033063308469245",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117033046736082608",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117033039035621531",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117033029293828544",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117031574851688678",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117025018918922110",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117020213965442389",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117014467483856722",
+      "dominant_topic": 0
+    },
+    {
+      "id": "116995782388123189",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117127914258561421",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117127911135079100",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117127544886544292",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117127360507317705",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117127360355551939",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117127360076753381",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117127269089415276",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117127268141349022",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117127267383753748",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117127256311812562",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117127256203427915",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117127050018112587",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117127026335469451",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117127008777073501",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126813664655797",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126731381485716",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117126536678213373",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117126257176458013",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126189791611241",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117126159071320024",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117126158960315430",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117126158912949276",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126158822653037",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117126158764266565",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126158694856006",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126158605878877",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126158523390187",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126158431711336",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117126158355070994",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126158313307965",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126158234854126",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126158158971561",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126158123866549",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126158066632066",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117126157999562745",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126157889510686",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117126157815329826",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117126157737215178",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117128207579477711",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117128092268401941",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117128092232398734",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117128092142843536",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117128092035328394",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117128092027448721",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117128091900183949",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117128091767162530",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117128236765774823",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117129090813759884",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117128984860632163",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117128903972454132",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117128773592494932",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117128745691281172",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117128719365313855",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117130208623748213",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117130118859342278",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117132603471795940",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117132561376499899",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117132244326622599",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117131778435810753",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117131581999504483",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117131509065725026",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117131509034631078",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117131509006938069",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117131357315687988",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117131357218513318",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117131357201440714",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117131222506812548",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117129766191687815",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117129300778576578",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117132731380295656",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117132731372914051",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117132731261832459",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117132730277899353",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117132712528014532",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117132677583297943",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117132883359728315",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117132866885049219",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117132865365292884",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117133003385120855",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117132983321112989",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117132968396782150",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117132968361297915",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117133085709844212",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117133314450553389",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117133289141508746",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117133273557966853",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117133234875495069",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117161446933521134",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117154823217204276",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117153059469415440",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117150656774584243",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117145521808865567",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117133842738989708",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117161751981365326",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117161597760933659",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117161521386176187",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117161347890220386",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117161347773684530",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117161233129975757",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117161220695349155",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117161148442372567",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117161148418037388",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117161059150885761",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117161024926740556",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117160922355229867",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117160804446656580",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117160633686294021",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117160589179921202",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117160359905005074",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117160325426752938",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117160218212544436",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117160127623459341",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117160056890490477",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117159926182175513",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117159886053461331",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117159855552235915",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117159820678757504",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117159820661788158",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117159820623556791",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117159755261824930",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117159729858438947",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117159729827428038",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117159645867322359",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117159645831280734",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117159634807640743",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117158843597347969",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117158700678922903",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117158228276257779",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117158110016771927",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117157804133256628",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117157756117473158",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117157697129095714",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117161815897749988",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117162000730927183",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117162000653917446",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117162120602615651",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117162090055804216",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117162090003924821",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117162250720477174",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117162250674405346",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190809525504721",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117185858809132060",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117169163024483798",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117165944762217029",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117194408849783744",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117194315036777033",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117194258003893046",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117194165167151042",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117194146193611250",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117194052861227247",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117194052704213169",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117193893421371004",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117193892548791884",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117193855566806943",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117193652042795713",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117193649271610567",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117192024966804325",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117192024826539593",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117192024795758191",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117191906938789941",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117191906725119839",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117191564616339620",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117191181612079703",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117191117049405769",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117191033950733431",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117190936802519665",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117190879282418163",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117190879055493897",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117190873017322994",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190847643672093",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190805464623855",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117190644826962844",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190644715631593",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190644610096021",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117190603153530179",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190428503802818",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117190305188163933",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117190305044953938",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117190142358532041",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117190107247931126",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117190052624784891",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117194498095001045",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117194497349075321",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117200379403735737",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117201206778329015",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117201206723361057",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117201049047504981",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201041661854305",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117200910920886039",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200910832334787",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200865786872865",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117200793227819830",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117200771629367922",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117200763305175274",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200762023809062",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117200712509638554",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117200712496572835",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117200710318344151",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117200660212748213",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117200605259794775",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200560647761082",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117200497994031506",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200497978419068",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200410017543480",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117200341000781921",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200338636030614",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200337136685779",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117200211181795180",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117200133332619780",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117199906141743247",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117199876039914684",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117199764612962189",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117199732851271774",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117199541890500518",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117199300303710854",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117199300233548172",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117199300154438100",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117199300030444969",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117198107861791615",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117201396327398577",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117201332250961309",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201517926343250",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201598614690917",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117201671083934280",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201660731919534",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201797857558169",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117201880222132950",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117202019769434676",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201994467534248",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201967469658181",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201967371043436",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201926696780006",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117201922594204755",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117202125347760298",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117202217485712370",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117202156001779741",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117202276019895614",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117202474446210089",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117202664327157563",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117202844395985114",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117202844345681023",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117202749217245055",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117206671834455223",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117206643805330743",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117206468704385413",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117206393655383518",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117206393595015266",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117206393592358945",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117206331218338428",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117206322462008013",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117206196215404799",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117206196212501620",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117206196084544414",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117206146730042408",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117206113302364221",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117206036320299836",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117205974208335330",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117205907822264832",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205907817927755",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205793582803838",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205793292752852",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205658670145690",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117205555279884208",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117205555242768645",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117205555167358984",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205555044061645",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205554945017321",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117205526346568680",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117204893780919966",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117203210618571876",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117206712772969391",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117206837397377155",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117206825160167944",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117206825041303618",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117206977331159289",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117207038996157930",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117207015308393311",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117207219423352833",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117207186529789978",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117207354721003873",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117207447884945016",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117207657644595156",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117207864740191637",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117207975681659150",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117207938003863636",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117208098281597912",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117208029776221415",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117208001280082152",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117208210224973267",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117208201288246815",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117208175684891329",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117208329722441250",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117208313954611550",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117208406694652808",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117208553784230100",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117208482544474723",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117212076466109926",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117211984781689151",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117211944740506842",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117211874106599706",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117211765831131288",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117211615048088409",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117211454234347771",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117211447489774218",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117211447469022555",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117211197817475165",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117211089339917679",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117211079026045181",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117211078927380054",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117210670032179236",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117210622578653888",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117210133804343742",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117210074628699494",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117209788962273747",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117209324542373278",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117209100117408446",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117209079385430615",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117209008634899585",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117212310047968116",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117212310039307494",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117212397877049872",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117212368075359672",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117212528775046164",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117212490816876875",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117212668882658619",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117212915481042316",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117213097300319625",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117213252508544172",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117213246376984196",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117213200792866800",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117213409638287025",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117213331755688884",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117213448742047369",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117213497948434284",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117213478481012050",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117213428708157518",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117213621489050213",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117213721540244935",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117213716090642568",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117213679165040633",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117213818982560666",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117214002385222280",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117213988481117808",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117213982365409060",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117213992600095820",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117213949144606148",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117214030150787791",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117214013667956604",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117214384205011326",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117214582931860265",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117214492987830279",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117214661202237451",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117219559070965510",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117218306397059270",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117223048868640435",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117222816291664585",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117222776889390185",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117222357999328377",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117221529680768537",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117220875973607760",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117220612821050924",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117220591728082351",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117220581643991972",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117220483743261842",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117220297195372889",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117219881406986364",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117219858771452226",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117219477906898889",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117219046496582502",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117218981066465131",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117218660184090922",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117218523574517731",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117218495449228100",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117218299175309310",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117218286986207257",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117218238908355869",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117218157784025091",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117217984365891016",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117217898384815502",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117217824655119979",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117217807552909045",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117217647113316521",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117217635052832671",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117217542440494396",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117217541233711594",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117217507442346828",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117217462547514596",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117223099685943663",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117223213267352028",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117223349599892606",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117223335606027088",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117223309417767321",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117223592820092585",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117223689308737071",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117223682015850333",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117223790294997028",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117223778077655518",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117223990763164436",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117223953487465059",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117223945100323007",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117224030988605397",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117224177136079828",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117224253975932812",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117224251616408877",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117224249791757754",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117224514044806584",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117224514044597034",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117224513998073158",
+      "dominant_topic": 0
+    },
+    {
+      "id": "117224891754606716",
+      "dominant_topic": 3
+    },
+    {
+      "id": "117225231450382796",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225421604540114",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117225421470116515",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225419218439929",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225418676210142",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225418191606579",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225418013116410",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225415130194100",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225413254293131",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225412918010023",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225411905772958",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225411527129114",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117225411474012029",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225409994906099",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117225409960855227",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117225325580276081",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117225319202945675",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117225319114481713",
+      "dominant_topic": 2
+    },
+    {
+      "id": "117225317633798351",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225317079287305",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225316564701478",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225316307821758",
+      "dominant_topic": 4
+    },
+    {
+      "id": "117225316216003243",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225293782656710",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225292994245372",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225292762643310",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225292587341634",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225292576103598",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225291928441566",
+      "dominant_topic": 1
+    },
+    {
+      "id": "117225879438757697",
+      "dominant_topic": 4
+    }
+  ]
+}
