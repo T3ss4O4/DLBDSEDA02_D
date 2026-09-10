@@ -1,0 +1,97 @@
+{
+  "total_posts": 520,
+  "top_accounts": [
+    {
+      "acct": "KSTA@social.cologne",
+      "count": 173,
+      "is_bot": true
+    },
+    {
+      "acct": "Zuginfo_Dortmund@nrw.social",
+      "count": 45,
+      "is_bot": true
+    },
+    {
+      "acct": "Demos_und_Termine@social.cologne",
+      "count": 19,
+      "is_bot": false
+    },
+    {
+      "acct": "wdr@squeet.me",
+      "count": 16,
+      "is_bot": true
+    },
+    {
+      "acct": "mysztaerrie.eurosky.social@bsky.brid.gy",
+      "count": 15,
+      "is_bot": false
+    },
+    {
+      "acct": "welt@anonsys.net",
+      "count": 15,
+      "is_bot": true
+    },
+    {
+      "acct": "Konzerte@social.cologne",
+      "count": 8,
+      "is_bot": true
+    },
+    {
+      "acct": "hubude",
+      "count": 7,
+      "is_bot": false
+    },
+    {
+      "acct": "Zuginfo_Koeln@social.cologne",
+      "count": 7,
+      "is_bot": true
+    },
+    {
+      "acct": "why_not@social.cologne",
+      "count": 7,
+      "is_bot": false
+    }
+  ],
+  "top_hashtags": [
+    {
+      "hashtag": "koln",
+      "count": 475
+    },
+    {
+      "hashtag": "cologne",
+      "count": 190
+    },
+    {
+      "hashtag": "news",
+      "count": 183
+    },
+    {
+      "hashtag": "ksta",
+      "count": 175
+    },
+    {
+      "hashtag": "koeln",
+      "count": 74
+    },
+    {
+      "hashtag": "nrw",
+      "count": 27
+    },
+    {
+      "hashtag": "wdr",
+      "count": 19
+    },
+    {
+      "hashtag": "rheinmetallentwaffnen",
+      "count": 19
+    },
+    {
+      "hashtag": "dusseldorf",
+      "count": 19
+    },
+    {
+      "hashtag": "newsteam",
+      "count": 12
+    }
+  ]
+}
