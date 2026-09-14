@@ -41,6 +41,7 @@ Plotted die Ergebnisse außerdem visuell in den Ordner "plots_accounts_hashtags"
 
 ### Topic_Analyzer_LSA_TfIdf.py
 Wertet die 5 häufigsten Themen über alle Posts in "preprocessed_posts.json" mittels TfIdf und LSA als Methodik aus.
+
 Voreingestellte Parameter: 
 - Gesuchte Themen: 5
 - Begriffe pro Thema: 12
@@ -53,6 +54,7 @@ Plottet die Ergebnisse außerdem visuell in den Ordner ""plots_lsa".
 ### Topic_Analyzer_LDA_BoW.py
 Wertet die 5 häufigsten Themen über alle Posts in "preprocessed_posts.json" mittels BoW und LDA als Methodik aus.
 Variable "POOL_BY_DAY" kann gesetzt werden um Beiträge tageweise zusammenzufassen und längere Texte für bessere Themenerkennung zu generieren. Implementiert nach dem Vorbild von: https://doi.org/10.1145/2484028.2484166 .
+
 Voreingestellte Parameter: 
 - Gesuchte Themen: 5
 - Begriffe pro Thema: 12
